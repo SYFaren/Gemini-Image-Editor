@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Editor",
+  "description": "An interactive image editor powered by the Gemini API. Upload an image and use natural language prompts in a chat-like interface to apply edits, transformations, and creative effects instantly.",
+  "requestFramePermissions": []
+}
